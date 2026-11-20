@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-homework",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/oagor/nodejs-homework#readme",
+  "bugs": {
+    "url": "https://github.com/oagor/nodejs-homework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oagor/nodejs-homework.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.14.0",
+    "prettier": "^3.10.1"
+  }
+}
